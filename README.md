@@ -68,7 +68,7 @@ None of them are good, but ¯\_(ツ)_/¯
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@MinhNhatNguyen3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MinhNhatNguyen3)](https://twitter.com/MinhNhatNguyen3) [![Linkedin Badge](https://img.shields.io/badge/-minhnguyen496-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhnguyen496/)](https://www.linkedin.com/in/minhnguyen496/)
-[![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+[![Twitter Badge](https://img.shields.io/badge/-@MinhNhatNguyen3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MinhNhatNguyen3)](https://twitter.com/MinhNhatNguyen3) [![Linkedin Badge](https://img.shields.io/badge/-minhnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhnguyen496/)](https://www.linkedin.com/in/minhnguyen496/)
+[![Gmail Badge](https://img.shields.io/badge/-minh14496@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minh14496@gmail.com)](mailto:minh14496@gmail.com)
 
 ✨ From [Minh](https://github.com/minh14496) with 💖
