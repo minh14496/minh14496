@@ -16,3 +16,24 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+#### Github Stats
+
+I too am extraordinarily humble
+
+<details>
+  <summary>Stats</summary>
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
+</a><a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html" />
+</a><a href="https://github.com/Daggy1234">
+ <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/overview.svg" />
+</a><a href="https://github.com/Daggy1234">
+ <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/languages.svg" />
+ </a>
+</details>
+  
+-----
