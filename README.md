@@ -20,19 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I am a Data Engineer and Data Scientist. 
 - 🌱 I'm currently base at: Southern California.
 - 🔭 I’m currently looking for job as Data Engineer
-- 📫 How to reach me
-  <a href="https://in.linkedin.com/in/minh496">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
 
 -----
 
@@ -78,4 +65,10 @@ None of them are good, but ¯\_(ツ)_/¯
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minh14496&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 -----
+
+
+##  Contact Me :speech_balloon:
+[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMinhNhatNguyen3
+
 ✨ From [Minh](https://github.com/minh14496) with 💖
