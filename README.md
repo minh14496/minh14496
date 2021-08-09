@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <!--
 **minh14496/minh14496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+
+- 🔭 I am a Data Engineer, Data Scientist. 
+- 🌱 I'm currently base at: South California
+- 🔭 I’m currently looking for job as Data Engineer
+- 📫 How to reach me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/anuraghazra/github-readme-stats)
 -----
@@ -65,9 +72,9 @@ I too am extraordinarily humble
 </a><a href="https://github.com/minh14496">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh14496&layout=compact&langs_count=9&hide=css,html" />
 </a><a href="https://github.com/minh14496">
- <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/overview.svg" />
+ <img src="https://raw.githubusercontent.com/minh14496/generate-stats/master/generated/overview.svg" />
 </a><a href="https://github.com/minh14496">
- <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/languages.svg" />
+ <img src="https://raw.githubusercontent.com/minh14496/generate-stats/master/generated/languages.svg" />
  </a>
 </details>
   
