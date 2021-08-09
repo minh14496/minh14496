@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for job as Data Engineer
 - 📫 How to reach me:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/anuraghazra/github-readme-stats)
+[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/minh14496/github-readme-stats)
+
+[![Minh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minh14496)](https://github.com/minh14496/github-readme-stats)
 -----
 
 #### Skills
@@ -40,7 +42,7 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 | Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
 | Serverless | Cloud functions, firebase and container runtimes |
 | Design | I can use UI libraries|
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minh14496)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -----
 
