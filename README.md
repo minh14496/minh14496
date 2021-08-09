@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :blue_heart: Anime | :black_heart Black Pink
 
-- 🔭 I am a Data Engineer, Data Scientist. 
-- 🌱 I'm currently base at: South California
+- 🔭 I am a Data Engineer and Data Scientist. 
+- 🌱 I'm currently base at: Southern California.
 - 🔭 I’m currently looking for job as Data Engineer
-- 📫 How to reach me:
-
-[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/minh14496/github-readme-stats)
-
+- 📫 How to reach me
+  <a href="https://in.linkedin.com/in/minh496">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/thedudethatcode/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 -----
 
@@ -69,22 +78,4 @@ None of them are good, but ¯\_(ツ)_/¯
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minh14496&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 -----
-
-Contact Info:
-
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-
-
------
-Have a Great Day!
+✨ From [Minh](https://github.com/minh14496) with 💖
