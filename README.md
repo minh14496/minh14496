@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 [![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496)](https://github.com/minh14496/github-readme-stats)
 
-[![Minh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minh14496)](https://github.com/minh14496/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minh14496)](https://github.com/anuraghazra/github-readme-stats)
+
 -----
 
 #### Skills
