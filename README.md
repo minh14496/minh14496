@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am a Data Engineer and Data Scientist. 
 - 🌱 I'm currently base at: Southern California.
-- 🔭 I’m currently looking for job as Data Engineer
+- 💼 I’m currently looking for job as Data Engineer
 
 -----
 
@@ -43,24 +43,13 @@ Here are some ideas to get you started:
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-
-  **JavaScript**: 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
 
   **SQL:**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 ### Tools
 
