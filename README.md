@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:heart: Programming | :blue_heart: Anime | :black_heart Black Pink
+:heart: Programming | :blue_heart: Anime | 🖤 Black Pink
 
 - 🔭 I am a Data Engineer and Data Scientist. 
 - 🌱 I'm currently base at: Southern California.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Languages <sup>*</sup>
 
-  **Python**:
+  **Python:**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-  **Java**: 
+  **Java:** 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JSON](	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
   
@@ -63,18 +63,15 @@ Here are some ideas to get you started:
 
 #### Top Projects:
 
-None of them are good, but ¯\_(ツ)_/¯
 <details>
   <summary>Top Projects!</summary>
     
-   - [Dagpi](https://dagpi.xyz) : Full stack api built with rust, postgres, redis, python and typescript with Full frontend dashboard and  full monitoring. Also 2 api wrappers for it.
+   - [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) : The project is built for non profit organization providing insights into judges decision trend based on asylum applicants' gender, nationality, type of asylum, etc. Using pytesseract to convert cases into string then build a scrapper to scrape important information from cases and finding trend from the data.
     
-   - [Dagbot](https://dagbot.daggy.tech): discord bot with website and feedback along with large fully customisable interface using Postgres and discord.py
+   - [Twittoff](https://github.com/minh14496/twitoff_minh): A webiste that connect to twitter api to scrape tweet from famous people and return if a random string user enter belongs to any of those personalities. The website was built using Flask and the NLP model using text vectorizing technique and spacy,
     
-   - [R.Daggy](https://github.com/Daggy1234/r.daggy): Private discord bot for my server with rust
-    
-   - [New York Pizza](https://github.com/Daggy1234/NewYorkPizza): A data science study that uses Data analysis and ML to predict the best place to open a pizza shop
- 
+   - [AirBnB price recommendator](https://github.com/Lambdata-Build-Week/DS-airbnb): Predicting price using linear regression model and serving the website with FastAPI
+
 </details>
 
 -----
