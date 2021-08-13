@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 -----
 
-#### Skills
-
 ### Languages 
 
   **Python:**
@@ -64,7 +62,7 @@ Here are some ideas to get you started:
 #### Top Projects:
 
 <details>
-  <summary>Top Projects!</summary>
+  <h2>Top Projects!</h2>
     
    - [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) : The project is built for non profit organization providing insights into judges decision trend based on asylum applicants' gender, nationality, type of asylum, etc. Using pytesseract to convert cases into string then build a scrapper to scrape important information from cases and finding trend from the data.
     
@@ -76,7 +74,7 @@ Here are some ideas to get you started:
 
 -----
 
-#### Github Stats
+### Github Stats
 [![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh14496&theme=dark)](https://github.com/minh14496/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minh14496&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
