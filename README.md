@@ -59,11 +59,10 @@ Here are some ideas to get you started:
 
 -----
 
-#### Top Projects:
+### Top Projects:
 
 <details>
-  <h2>Top Projects!</h2>
-    
+  
    - [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) : The project is built for non profit organization providing insights into judges decision trend based on asylum applicants' gender, nationality, type of asylum, etc. Using pytesseract to convert cases into string then build a scrapper to scrape important information from cases and finding trend from the data.
     
    - [Twittoff](https://github.com/minh14496/twitoff_minh): A webiste that connect to twitter api to scrape tweet from famous people and return if a random string user enter belongs to any of those personalities. The website was built using Flask and the NLP model using text vectorizing technique and spacy,
