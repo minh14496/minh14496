@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:heart: Programming | :blue_heart: Anime | 🖤 Black Pink
+:heart: Programming | :blue_heart: Anime | 🖤💗 BlackPink
 
 - 🔭 I am a Data Engineer and Data Scientist. 
 - 🌱 I'm currently base at: Southern California.
