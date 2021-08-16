@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-  **Java:** 
+  <!--**Java:** 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JSON](	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+  ![JSON](	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) -->
   
   **SQL:**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/minh14496)](https://github.com/minh14496)
