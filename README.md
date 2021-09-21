@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 -----
 
 ### Lambda School | Data Science & Machine Learning Credential
-[< src="assets\data-science-machine-learning.1.png"/>](https://www.credly.com/badges/2f636c2e-5d6f-4af2-b8e6-7a9edc5155b2/public_url)
+[<img src="assets\data-science-machine-learning.1.png"/>](https://www.credly.com/badges/2f636c2e-5d6f-4af2-b8e6-7a9edc5155b2/public_url)
 
 -----
 
