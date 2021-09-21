@@ -81,6 +81,11 @@ Here are some ideas to get you started:
   
 -----
 
+### Lambda School | Data Science & Machine Learning Credential
+[<img align="left" style="margin-right: 1.5rem" alt="" width="270px" src="assets\data-science-machine-learning.1.png"/>](https://www.credly.com/badges/2f636c2e-5d6f-4af2-b8e6-7a9edc5155b2/public_url)
+
+-----
+
 ###  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@MinhNhatNguyen3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MinhNhatNguyen3)](https://twitter.com/MinhNhatNguyen3) [![Linkedin Badge](https://img.shields.io/badge/-minhnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhnguyen496/)](https://www.linkedin.com/in/minhnguyen496/)
 [![Gmail Badge](https://img.shields.io/badge/-minh14496@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minh14496@gmail.com)](mailto:minh14496@gmail.com)
