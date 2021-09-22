@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/minh14496)](https://github.com/minh14496)
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/minh14496)](https://github.com/minh14496)
   [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://github.com/minh14496)](https://github.com/minh14496)
+<br />
 
 ### Tools
 
