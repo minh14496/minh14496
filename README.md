@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 :heart: Programming | :blue_heart: Anime | 🖤💗 BlackPink
 
-- 🔭 I am a Data Engineer and Data Scientist. 
+- 🔭 I am a Data Engineer. 
 - 🌱 I'm currently base at: Southern California.
-- 💼 I’m currently looking for job as Data Engineer
 
 -----
 
